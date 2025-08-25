@@ -69,7 +69,6 @@ Interpolation between two test digits:
 ## References
 - [Kingma & Welling (2013) Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)  
 - [PyTorch VAE Tutorial](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)  
-- [Karpathy Blog on RNNs (related intuition on latent spaces)](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
 
 ---
 
