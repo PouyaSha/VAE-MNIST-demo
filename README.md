@@ -42,7 +42,7 @@ If you run in Colab, everything is pre-installed ✅
 ## 📊 Example Results
 ### Reconstruction
 Digits after passing through the VAE:  
-*(add an image here if you saved one from the notebook)*
+![Alt text](images/reconstructed.png)
 
 ### Latent Space
 2D latent embeddings of MNIST digits:  
