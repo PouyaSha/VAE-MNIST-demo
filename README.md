@@ -38,7 +38,8 @@ If you run in Colab, everything is pre-installed ✅
 
 ## Example Results
 ### Reconstruction
-Digits after passing through the VAE:  
+Digits after passing through the VAE: 
+
 ![Alt text](images/reconstructed.png)
 
 
@@ -50,11 +51,13 @@ Random Sampling from Prior p(z) = N(0, I):
 
 ### Latent Space
 2D latent embeddings of MNIST digits:  
+
 ![Alt text](images/latent_space.png)
 
 
 ### Interpolation between two test digits
-Interpolation between two test digits
+Interpolation between two test digits:
+
 ![Alt text](images/interpolation.png)
 
 
