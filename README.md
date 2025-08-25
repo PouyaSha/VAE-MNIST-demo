@@ -32,7 +32,7 @@ You can run this notebook directly in Colab without any setup:
 - Matplotlib  
 - Jupyter or Google Colab  
 
-If you run in Colab, everything is pre-installed ✅
+If you run in Colab, everything is pre-installed 
 
 ---
 
