@@ -55,7 +55,7 @@ Random Sampling from Prior p(z) = N(0, I):
 ![Alt text](images/latent_space.png)
 
 
-### Interpolation between two test digits
+### Interpolation
 Interpolation between two test digits:
 
 ![Alt text](images/interpolation.png)
