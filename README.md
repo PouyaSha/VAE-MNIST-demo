@@ -1,6 +1,3 @@
-# VAE-MNIST-demo
-Variational Autoencoder on MNIST with PyTorch
-
 # Variational Autoencoder (VAE) on MNIST
 
 This repository contains a simple PyTorch implementation of a **Variational Autoencoder (VAE)** trained on the MNIST handwritten digits dataset.  
@@ -8,14 +5,14 @@ It is designed for learning and demonstration purposes, with clear step-by-step 
 
 ---
 
-## 🚀 Run in Google Colab
+## Run in Google Colab
 You can run this notebook directly in Colab without any setup:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19nnFokSELSVI_A3ljzA6JNyym-iQyzZM?usp=sharing)
 
 ---
 
-## 📌 Features
+## Features
 - Loads and preprocesses the MNIST dataset  
 - Implements an Encoder and Decoder in PyTorch  
 - Uses the **reparameterization trick** for sampling latent variables  
@@ -28,7 +25,7 @@ You can run this notebook directly in Colab without any setup:
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 - Python 3.8+  
 - PyTorch  
 - Torchvision  
@@ -39,24 +36,39 @@ If you run in Colab, everything is pre-installed ✅
 
 ---
 
-## 📊 Example Results
+## Example Results
 ### Reconstruction
 Digits after passing through the VAE:  
 ![Alt text](images/reconstructed.png)
 
+
+### Generating Images from Random Samples
+Random Sampling from Prior p(z) = N(0, I)
+![Alt text](images/random samples.png)
+
+
 ### Latent Space
 2D latent embeddings of MNIST digits:  
-*(add plot screenshot here)*
+![Alt text](images/latent space.png)
+
+
+### Interpolation between two test digits
+Interpolation between two test digits
+![Alt text](images/interpolation.png)
+
+
+
+
 
 ---
 
-## 📖 References
+## References
 - [Kingma & Welling (2013) Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)  
 - [PyTorch VAE Tutorial](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html)  
 - [Karpathy Blog on RNNs (related intuition on latent spaces)](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)  
 
 ---
 
-## ✨ Author
+## Author
 Made by **Pouya Shamshiri**  
 Feel free to fork, open issues, or suggest improvements!  
