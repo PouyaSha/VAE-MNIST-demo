@@ -11,7 +11,7 @@ It is designed for learning and demonstration purposes, with clear step-by-step 
 ## 🚀 Run in Google Colab
 You can run this notebook directly in Colab without any setup:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/vae-mnist/blob/main/VAE_MNIST_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19nnFokSELSVI_A3ljzA6JNyym-iQyzZM?usp=sharing)
 
 ---
 
