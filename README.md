@@ -44,12 +44,12 @@ Digits after passing through the VAE:
 
 ### Generating Images from Random Samples
 Random Sampling from Prior p(z) = N(0, I)
-![Alt text](images/random samples.png)
+![Alt text](images/random_samples.png)
 
 
 ### Latent Space
 2D latent embeddings of MNIST digits:  
-![Alt text](images/latent space.png)
+![Alt text](images/latent_space.png)
 
 
 ### Interpolation between two test digits
