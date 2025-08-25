@@ -43,7 +43,8 @@ Digits after passing through the VAE:
 
 
 ### Generating Images from Random Samples
-Random Sampling from Prior p(z) = N(0, I)
+Random Sampling from Prior p(z) = N(0, I):
+
 ![Alt text](images/random_samples.png)
 
 
